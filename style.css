@@ -1,0 +1,62 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+body{
+	max-width:900px;
+	margin:20px auto;
+	border-style:double;
+	border-width: 4px;
+    font-family: 'Space Mono', monospace;
+
+    
+
+}
+
+h1{
+	text-align: center;
+	line-height: 30px;
+
+}
+
+#firhead{
+	font-size: 18px;
+}
+
+#sechead{
+	font-size:40px;
+}
+
+#thihead{
+	font-size:20px;
+
+}
+
+
+ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding:15px 35px;
+
+}
+
+.wrapper{
+	display:-webkit-box;
+	-webkit-box-pack:center;
+	-webkit-box-orient:horizontal;
+	
+}
+
+nav {
+	border-top:3px solid black;
+	border-bottom: 1px solid black;
+    text-align: center;
+    margin:0px 90px ;
+    padding: 0px;
+}
+
+span {
+	text-align: center;
+	font-size: 18px;
+}
